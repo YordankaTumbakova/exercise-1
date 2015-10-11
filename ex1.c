@@ -6,7 +6,7 @@ int main()
 	step = 20; 
 	fahr = lower; 
 	
-	printf("Temperature conversion table:\n\nF      C\n");
+	printf("Temperature conversion table:\nF      C\n");
 	
 	while (fahr <= upper)
 	{ 
