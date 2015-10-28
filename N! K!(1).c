@@ -32,5 +32,5 @@ int main()
 	}
 	result=factN/factK;
 	printf("N!/K!=%d", result);
-    return(0);
+    return 0;
 }
